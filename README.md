@@ -77,3 +77,4 @@ Check the [Releases](../../releases) section to download the latest available ve
 ## 📜 License
 
 See the [LICENSE](LICENSE) file for information about the project's license.
+For now the project isn't affiliated with EaglerCraft.
