@@ -11,9 +11,9 @@ The goal is to provide a simple, lightweight and reliable launcher with multi-la
 ## 💻 Supported Platforms
 
 ### Windows
-- x86 (32-bit) - ✅ Available
-- x64 (64-bit) - ✅ Available
-- ARM - ✅ Available
+- x86 (32-bit) - ✅ Available (tested)
+- x64 (64-bit) - ✅ Available (tested)
+- ARM - ✅ Available (untested)
 
 ### Linux
 - x86 (32-bit) - 🔜 Planned
